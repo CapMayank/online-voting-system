@@ -1,0 +1,10 @@
+
+
+ADMIN PANEL LOGIN DETAILS
+ 
+Username: codeprojects
+Password: password
+
+
+
+
